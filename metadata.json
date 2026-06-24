@@ -1,0 +1,6 @@
+{
+  "name": "Drive to Photos Transfer",
+  "description": "Transfer an entire folder of photos and videos from Google Drive to Google Photos as an album.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
